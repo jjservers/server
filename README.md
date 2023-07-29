@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="[https://socialify.git.ci/whos-evan/elixir/image?description=1&descriptionEditable=Beautiful%20proxy%20made%20using%20Tailwind%20CSS%2C%20Ultraviolet%20and%20bare-server!%20&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fwhos-evan%2Felixir%2Fmain%2Fimages%2Flogo.svg&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark](https://lh3.googleusercontent.com/m1IpdxiKT9tVDpB-IrpyFr9i6rftva32FhRWewjcENx6qE_dtqV-wzhr-kqLXlOf67DsX-DVJygpDw3T4kCBN958x3uFOXW9tZT8TYxrLOpiaXSU0ybhMB0DTb27WWuZFQ=w1280)https://lh3.googleusercontent.com/m1IpdxiKT9tVDpB-IrpyFr9i6rftva32FhRWewjcENx6qE_dtqV-wzhr-kqLXlOf67DsX-DVJygpDw3T4kCBN958x3uFOXW9tZT8TYxrLOpiaXSU0ybhMB0DTb27WWuZFQ=w1280" width="640" height="320" />
+<img src="https://lh3.googleusercontent.com/m1IpdxiKT9tVDpB-IrpyFr9i6rftva32FhRWewjcENx6qE_dtqV-wzhr-kqLXlOf67DsX-DVJygpDw3T4kCBN958x3uFOXW9tZT8TYxrLOpiaXSU0ybhMB0DTb27WWuZFQ=w1280" width="640" height="320" />
